@@ -1,0 +1,52 @@
+1	00:23:14.563	'22882783': datacenter connecting failed [6]
+0	00:23:15.495	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 297.28 ms)
+0	00:23:20.511	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 297.28 ms)
+0	00:23:21.269	'22882783': previous successful authorization performed from 172.21.36.7
+1	00:48:57.540	'22882783': datacenter connecting failed [6]
+0	00:48:58.493	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 297.28 ms)
+0	00:49:03.739	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 297.28 ms)
+0	00:49:04.565	'22882783': previous successful authorization performed from 172.21.36.7
+0	00:49:30.493	'22882783': ping to current access point Datacenter is 296.37 ms
+1	14:54:37.581	'22882783': ping failed
+0	14:54:38.705	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 296.37 ms)
+0	14:54:44.515	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 296.37 ms)
+0	14:54:45.423	'22882783': previous successful authorization performed from 172.21.36.7
+0	14:55:12.951	'22882783': ping to current access point Datacenter is 297.11 ms
+1	16:12:17.547	'22882783': ping failed
+0	16:12:21.795	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 292.32 ms)
+0	16:12:28.372	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 292.32 ms)
+0	16:12:29.538	'22882783': previous successful authorization performed from 172.21.36.7
+0	16:12:55.522	'22882783': auto connecting to a better access point Datacenter (ping is 291.36 ms)
+0	16:12:56.467	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 291.36 ms)
+0	16:13:02.454	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 291.36 ms)
+0	16:13:03.303	'22882783': previous successful authorization performed from 172.25.36.7
+1	16:50:51.535	'22882783': ping failed
+0	16:50:53.718	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 297.31 ms)
+0	16:50:59.519	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 297.31 ms)
+0	16:51:00.298	'22882783': previous successful authorization performed from 172.21.36.7
+1	19:54:25.551	'22882783': ping failed
+1	19:54:27.175	'22882783': connect failed [No connection]
+0	19:54:54.369	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: n/a)
+0	19:54:59.778	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: n/a)
+0	19:55:00.578	'22882783': previous successful authorization performed from 172.25.36.7
+0	19:55:27.390	'22882783': auto connecting to a better access point Datacenter (ping is 291.84 ms)
+0	19:55:28.412	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 291.84 ms)
+0	19:55:38.797	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 291.84 ms)
+0	19:55:39.612	'22882783': previous successful authorization performed from 172.25.36.7
+1	20:35:05.535	'22882783': ping failed
+0	20:35:09.632	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 296.71 ms)
+0	20:35:15.500	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 296.71 ms)
+0	20:35:16.342	'22882783': previous successful authorization performed from 172.21.36.7
+1	21:04:54.543	'22882783': ping failed
+1	21:04:54.591	'22882783': connect failed [No connection]
+0	21:05:21.696	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: n/a)
+0	21:05:27.281	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: n/a)
+0	21:05:28.065	'22882783': previous successful authorization performed from 172.25.36.7
+0	21:05:54.417	'22882783': auto connecting to a better access point Datacenter (ping is 307.15 ms)
+0	21:05:55.549	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 307.15 ms)
+0	21:06:02.120	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 307.15 ms)
+0	21:06:03.341	'22882783': previous successful authorization performed from 172.25.36.7
+0	21:38:34.642	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 307.15 ms)
+0	21:38:40.748	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 307.15 ms)
+0	21:38:41.555	'22882783': previous successful authorization performed from 172.21.36.7
+1	23:00:00.416	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)

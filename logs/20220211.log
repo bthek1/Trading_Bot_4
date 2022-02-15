@@ -1,0 +1,7 @@
+0	20:49:10.701	CMC Markets MT4 build 1353 started (CMC Markets Plc)
+0	20:49:10.701	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 2415 / 16215 Mb, Disk: 281 / 475 Gb, GMT+10
+0	20:49:10.701	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+0	20:49:15.427	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 292.18 ms)
+1	20:49:18.921	'23162932': datacenter connecting failed [6]
+0	20:49:19.561	'23162932': auto connecting to a better access point DataCenter 2 (ping is 296.77 ms)
+0	20:49:19.951	CMC Markets MT4 build 1353 stopped

@@ -1,0 +1,12 @@
+0	22:06:35.378	CMC Markets MT4 build 1350 started (CMC Markets Plc)
+0	22:06:35.378	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 6455 / 16215 Mb, Disk: 190 / 475 Gb, GMT+10
+0	22:06:35.378	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+2	22:06:37.100	Custom indicator created\gap SPX500,H1: loaded successfully
+0	22:06:38.456	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 294.79 ms)
+0	22:06:43.755	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 294.79 ms)
+0	22:06:44.527	'22882783': previous successful authorization performed from 172.21.36.7
+0	22:06:44.899	MQL5.community: activated for 'BensonThekkel', balance: 0.00
+0	22:06:51.137	MQL5.chats: activated for 'BensonThekkel'
+0	22:07:10.991	'22882783': ping to current access point Datacenter is 295.74 ms
+2	22:11:52.286	Custom indicator gap SPX500,H1: removed
+0	22:11:52.507	CMC Markets MT4 build 1350 stopped

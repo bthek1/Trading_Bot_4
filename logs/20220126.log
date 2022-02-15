@@ -1,0 +1,14 @@
+1	01:56:04.898	'23162932': connect failed [No connection]
+1	20:31:42.771	MQL5.community: authorization failed
+0	20:32:32.382	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: n/a)
+0	20:32:35.392	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: n/a)
+0	20:32:36.521	'23162932': previous successful authorization performed from 172.21.36.7
+0	20:33:00.825	'23162932': auto connecting to a better access point DataCenter (ping is 292.18 ms)
+0	20:33:01.743	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 292.18 ms)
+0	20:33:04.947	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 292.18 ms)
+0	20:33:05.692	'23162932': previous successful authorization performed from 172.25.36.7
+1	21:02:46.559	'23162932': datacenter connecting failed [6]
+0	21:02:47.775	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 292.18 ms)
+0	21:02:51.027	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 292.18 ms)
+0	21:02:52.103	'23162932': previous successful authorization performed from 172.21.36.7
+0	21:03:23.247	CMC Markets MT4 build 1353 stopped

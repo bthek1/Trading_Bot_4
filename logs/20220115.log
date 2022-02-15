@@ -1,0 +1,41 @@
+0	00:48:03.372	CMC Markets MT4 build 1350 started (CMC Markets Plc)
+0	00:48:03.372	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 4877 / 16215 Mb, Disk: 291 / 475 Gb, GMT+10
+0	00:48:03.372	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+2	00:48:05.607	Custom indicator created\gap SPX500,H1: loaded successfully
+0	00:48:07.049	'23162932': login on CMCMarkets1-Live through DataCenter (ping: n/a)
+0	00:48:10.581	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: n/a)
+0	00:48:11.360	'23162932': previous successful authorization performed from 172.21.36.7
+2	00:48:25.143	Custom indicator gap SPX500,H1: removed
+0	00:48:37.202	'23162932': ping to current access point DataCenter is 290.90 ms
+0	00:48:43.560	MQL5.community: activated for 'BensonThekkel', balance: 0.00
+0	00:48:49.329	MQL5.chats: activated for 'BensonThekkel'
+0	01:00:04.008	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.06332 tp: 0.00000' sent to 'C2BF60FC'
+0	01:00:05.336	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06332 tp: 0.00000 -> sl: 1.06325 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:11.647	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06325 tp: 0.00000 -> sl: 1.06323 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:12.983	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06323 tp: 0.00000 -> sl: 1.06317 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:14.320	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06317 tp: 0.00000 -> sl: 1.06316 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:15.747	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06316 tp: 0.00000 -> sl: 1.06312 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:17.091	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06312 tp: 0.00000 -> sl: 1.06311 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:18.431	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06311 tp: 0.00000 -> sl: 1.06310 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:19.813	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06310 tp: 0.00000 -> sl: 1.06307 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:24.208	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06307 tp: 0.00000 -> sl: 1.06305 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:26.367	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06305 tp: 0.00000 -> sl: 1.06304 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:32.248	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06304 tp: 0.00000 -> sl: 1.06302 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:37.198	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06302 tp: 0.00000 -> sl: 1.06300 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:38.870	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06300 tp: 0.00000 -> sl: 1.06298 tp: 0.00000' sent to 'C2BF60FC'
+0	01:01:41.224	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06298 tp: 0.00000 -> sl: 1.06292 tp: 0.00000' sent to 'C2BF60FC'
+0	01:02:23.063	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06292 tp: 0.00000 -> sl: 1.06291 tp: 0.00000' sent to 'C2BF60FC'
+0	01:02:26.466	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06291 tp: 0.00000 -> sl: 1.06289 tp: 0.00000' sent to 'C2BF60FC'
+0	01:03:08.397	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06289 tp: 0.00000 -> sl: 1.06287 tp: 0.00000' sent to 'C2BF60FC'
+0	01:03:10.773	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06287 tp: 0.00000 -> sl: 1.06286 tp: 0.00000' sent to 'C2BF60FC'
+0	01:03:41.821	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06286 tp: 0.00000 -> sl: 1.06283 tp: 0.00000' sent to 'C2BF60FC'
+0	01:21:00.011	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06283 tp: 0.00000 -> sl: 1.06281 tp: 0.00000' sent to 'C2BF60FC'
+0	01:30:24.018	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06281 tp: 0.00000 -> sl: 1.06280 tp: 0.00000' sent to 'C2BF60FC'
+0	02:00:01.432	Notifications: 'order #1900353 sell 0.10 AUDNZD at 1.06267 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.06261 tp: 0.00000' sent to 'C2BF60FC'
+0	02:00:02.829	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06280 tp: 0.00000 -> sl: 1.06260 tp: 0.00000' sent to 'C2BF60FC'
+0	04:00:01.704	Notifications: 'order #1900353 sell 0.10 AUDNZD at 1.06267 modified: sl: 1.06261 tp: 0.00000 -> sl: 1.06225 tp: 0.00000' sent to 'C2BF60FC'
+0	04:00:03.112	Notifications: 'order #1926109 sell 0.11 AUDNZD at 1.06394 modified: sl: 1.06260 tp: 0.00000 -> sl: 1.06217 tp: 0.00000' sent to 'C2BF60FC'
+0	04:00:04.552	Notifications: 'order #1927268 sell 0.04 EURUSD at 1.14624 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.14533 tp: 0.00000' sent to 'C2BF60FC'
+0	04:00:05.903	Notifications: 'order #1929057 sell 0.05 EURUSD at 1.14694 modified: sl: 0.00000 tp: 0.00000 -> sl: 1.14529 tp: 0.00000' sent to 'C2BF60FC'
+0	09:05:09.704	System to be shutdown, request for close CMC Markets MT4
+0	09:05:10.057	CMC Markets MT4 build 1350 stopped because system shutdown

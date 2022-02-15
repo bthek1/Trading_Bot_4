@@ -1,0 +1,53 @@
+0	03:35:42.290	CMC Markets MT4 build 1350 started (CMC Markets Plc)
+0	03:35:42.290	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 5913 / 16215 Mb, Disk: 258 / 475 Gb, GMT+10
+0	03:35:42.290	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+2	03:35:44.088	Custom indicator created\gap SPX500,H1: loaded successfully
+0	03:35:45.567	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 295.74 ms)
+1	03:35:47.266	Virtual Hosting: connect to trade server first, please
+1	03:35:52.990	Virtual Hosting: connect to trade server first, please
+0	03:35:54.392	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 295.74 ms)
+0	03:35:55.517	'22882783': previous successful authorization performed from 172.21.36.7
+0	03:35:55.893	MQL5.community: activated for 'BensonThekkel', balance: 0.00
+0	03:35:56.899	MQL5.chats: activated for 'BensonThekkel'
+0	03:36:18.963	'22882783': ping to current access point Datacenter is 294.78 ms
+0	03:36:57.269	Automated trading disabled
+3	03:36:57.269	Automated trading disabled because the account has been changed
+0	03:36:58.177	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: 297.25 ms)
+0	03:37:01.160	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: 297.25 ms)
+0	03:37:01.894	'23162932': previous successful authorization performed from 172.21.36.7
+0	03:37:02.401	Automated trading enabled
+0	03:37:03.254	Automated trading disabled
+0	03:37:28.961	'23162932': auto connecting to a better access point DataCenter (ping is 296.49 ms)
+0	03:37:29.939	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 296.49 ms)
+0	03:37:33.344	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 296.49 ms)
+0	03:37:34.100	'23162932': previous successful authorization performed from 172.25.36.7
+0	03:37:45.154	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 294.78 ms)
+0	03:37:50.877	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 294.78 ms)
+0	03:37:51.672	'22882783': previous successful authorization performed from 172.21.36.7
+1	16:02:42.559	'22882783': ping failed
+1	16:02:44.251	MQL5.community: authorization failed
+0	16:02:47.696	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 297.52 ms)
+0	16:03:01.608	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 297.52 ms)
+0	16:03:02.529	'22882783': previous successful authorization performed from 172.21.36.7
+0	16:03:28.363	'22882783': auto connecting to a better access point Datacenter (ping is 293.29 ms)
+0	16:03:29.379	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 293.29 ms)
+0	16:03:37.080	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 293.29 ms)
+0	16:03:37.883	'22882783': previous successful authorization performed from 172.25.36.7
+1	20:20:41.513	'22882783': ping failed
+1	20:20:41.585	'22882783': datacenter connecting failed [6]
+0	20:20:42.686	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 295.95 ms)
+0	20:20:48.464	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 295.95 ms)
+0	20:20:49.280	'22882783': previous successful authorization performed from 172.21.36.7
+0	20:21:15.360	'22882783': auto connecting to a better access point Datacenter (ping is 288.45 ms)
+0	20:21:16.540	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 288.45 ms)
+0	20:21:26.297	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 288.45 ms)
+0	20:21:27.154	'22882783': previous successful authorization performed from 172.25.36.7
+1	23:26:22.574	'22882783': ping failed
+1	23:26:22.592	'22882783': datacenter connecting failed [6]
+0	23:26:23.559	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 310.81 ms)
+0	23:26:29.073	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 310.81 ms)
+0	23:26:29.834	'22882783': previous successful authorization performed from 172.21.36.7
+0	23:26:56.354	'22882783': auto connecting to a better access point Datacenter (ping is 297.28 ms)
+0	23:26:57.312	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 297.28 ms)
+0	23:27:02.589	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 297.28 ms)
+0	23:27:03.433	'22882783': previous successful authorization performed from 172.25.36.7

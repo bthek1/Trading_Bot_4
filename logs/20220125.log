@@ -1,0 +1,60 @@
+0	19:02:36.742	CMC Markets MT4 build 1350 started (CMC Markets Plc)
+0	19:02:36.742	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 2967 / 16215 Mb, Disk: 306 / 475 Gb, GMT+10
+0	19:02:36.742	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+0	19:02:42.717	LiveUpdate: updater - started for 'C:\Program Files (x86)\CMC Markets MetaTrader 4'
+0	19:02:42.728	LiveUpdate: updater - start admin updater
+0	19:02:45.236	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 290.90 ms)
+0	19:02:48.693	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 290.90 ms)
+0	19:02:49.567	'23162932': ping to current access point DataCenter is 328.14 ms
+0	19:02:50.025	CMC Markets MT4 build 1350 stopped
+0	19:02:46.914	LiveUpdate: admin updater - started for 'C:\Program Files (x86)\CMC Markets MetaTrader 4'
+0	19:02:46.915	LiveUpdate: admin updater - try to close terminal
+0	19:02:51.114	LiveUpdate: admin updater - files update started
+0	19:02:51.295	LiveUpdate: copied from 'C:\Users\bthek\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files (x86)\CMC Markets MetaTrader 4\metaeditor.exe'
+0	19:02:51.307	LiveUpdate: copied from 'C:\Users\bthek\AppData\Roaming\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files (x86)\CMC Markets MetaTrader 4\terminal.exe'
+0	19:02:51.307	LiveUpdate: admin updater - files update finished
+0	19:02:51.307	LiveUpdate: admin updater - clean obsolete data
+0	19:02:51.307	LiveUpdate: admin updater - finished for 'C:\Program Files (x86)\CMC Markets MetaTrader 4'
+0	19:02:51.317	LiveUpdate: updater - start terminal
+0	19:02:51.620	LiveUpdate: updater - finished for 'C:\Program Files (x86)\CMC Markets MetaTrader 4'
+0	19:02:53.262	LiveUpdate: update C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20\MQL4 folder started
+0	19:02:53.509	LiveUpdate: update C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20\MQL4 folder finished
+0	19:02:53.661	CMC Markets MT4 build 1353 started (CMC Markets Plc)
+0	19:02:53.661	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 2803 / 16215 Mb, Disk: 306 / 475 Gb, GMT+10
+0	19:02:53.661	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+0	19:02:53.871	Sources recompilation started
+0	19:03:07.271	Sources recompilation finished (28 compiled in 13391 msec)
+0	19:03:09.924	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 328.14 ms)
+0	19:03:13.024	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 328.14 ms)
+0	19:03:13.783	'23162932': previous successful authorization performed from 172.21.36.7
+0	19:03:26.996	Notifications: 'margin call reached ml 79.96%, equity: 3038.15 AUD, margin: 3799.75 AUD, profit: -2542.32 AUD' sent to 'C2BF60FC'
+0	19:03:43.432	MQL5.community: activated for 'BensonThekkel', balance: 0.00
+0	19:03:43.449	MQL5.chats: users.dat file header invalid, rewritten
+0	19:03:48.521	MQL5.chats: activated for 'BensonThekkel'
+1	20:09:31.539	'23162932': ping failed
+0	20:09:33.641	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: 330.86 ms)
+0	20:09:39.025	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: 330.86 ms)
+0	20:09:40.244	'23162932': previous successful authorization performed from 172.21.36.7
+0	20:10:07.564	'23162932': auto connecting to a better access point DataCenter (ping is 320.22 ms)
+0	20:10:08.540	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 320.22 ms)
+0	20:10:13.532	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 320.22 ms)
+0	20:10:14.312	'23162932': previous successful authorization performed from 172.25.36.7
+0	20:11:14.375	MQL5.chats: activated for 'BensonThekkel'
+1	21:48:49.528	'23162932': ping failed
+0	21:48:51.604	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: 322.55 ms)
+0	21:48:56.635	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: 322.55 ms)
+0	21:48:57.572	'23162932': previous successful authorization performed from 172.21.36.7
+0	21:49:23.387	'23162932': auto connecting to a better access point DataCenter (ping is 298.04 ms)
+0	21:49:24.271	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 298.04 ms)
+0	21:49:27.498	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 298.04 ms)
+0	21:49:28.272	'23162932': previous successful authorization performed from 172.25.36.7
+0	21:50:32.417	MQL5.chats: activated for 'BensonThekkel'
+1	23:39:37.532	'23162932': ping failed
+0	23:39:39.617	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: 309.62 ms)
+0	23:39:43.837	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: 309.62 ms)
+0	23:39:44.849	'23162932': previous successful authorization performed from 172.21.36.7
+0	23:40:10.513	'23162932': auto connecting to a better access point DataCenter (ping is 294.02 ms)
+0	23:40:11.468	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 294.02 ms)
+0	23:40:14.850	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 294.02 ms)
+0	23:40:15.591	'23162932': previous successful authorization performed from 172.25.36.7
+0	23:41:20.256	MQL5.chats: activated for 'BensonThekkel'

@@ -1,0 +1,23 @@
+0	15:51:40.878	CMC Markets MT4 build 1350 started (CMC Markets Plc)
+0	15:51:40.879	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 4229 / 16215 Mb, Disk: 287 / 475 Gb, GMT+10
+0	15:51:40.879	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+2	15:51:42.863	Custom indicator created\gap SPX500,H1: loaded successfully
+1	15:51:44.323	'22882783': connect failed [No connection]
+0	15:51:44.790	MQL5.community: activated for 'BensonThekkel', balance: 0.00
+0	15:51:49.938	MQL5.chats: activated for 'BensonThekkel'
+0	15:52:24.376	'22882783': auto connecting to a better access point Main (ping is n/a)
+0	15:53:45.444	'22882783': auto connecting to a better access point Main (ping is n/a)
+0	15:54:49.746	'23162932': auto connecting to a better access point Metatrader Internal (ping is n/a)
+0	16:00:31.963	'23162932': login on CMCMarkets1-Live through DataCenter (ping: n/a)
+1	16:00:55.440	'23162932': datacenter connecting failed [6]
+0	16:00:55.897	'23162932': previous successful authorization performed from 172.21.36.7
+0	16:01:08.743	'23162932': ping to current access point DataCenter is n/a
+1	16:02:54.675	'23162932': modification of order #1818049 buy 0.07 EURUSD at 1.13212 sl: 0.00000 tp: 0.00000 -> sl: 1.13158 tp: 0.00000 failed [Invalid S/L or T/P]
+0	16:02:56.142	'23162932': pending order sell limit 0.11 EURUSD at 1.17896 sl: 0.00000 tp: 0.00000
+0	16:02:56.563	'23162932': order was opened : #1879035 sell limit 0.11 EURUSD at 1.17896 sl: 0.00000 tp: 0.00000
+0	16:02:59.798	Notifications: 'pending order opened #1879035 sell limit 0.11 EURUSD at 1.17896' sent to 'C2BF60FC'
+1	16:03:59.866	'22882783': connect failed [No connection]
+3	16:06:35.990	Main pumping: timeout on stop
+3	16:06:39.000	Main pumping: timeout on stop
+2	16:06:39.054	Custom indicator gap SPX500,H1: removed
+0	16:06:39.374	CMC Markets MT4 build 1350 stopped

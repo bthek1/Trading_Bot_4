@@ -1,0 +1,98 @@
+0	00:05:16.928	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 296.85 ms)
+0	00:05:22.721	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 296.85 ms)
+0	00:05:23.512	'22882783': previous successful authorization performed from 172.25.36.7
+1	09:24:23.520	'22882783': ping failed
+1	09:24:23.539	'22882783': datacenter connecting failed [6]
+0	09:25:06.578	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: n/a)
+0	09:25:16.989	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: n/a)
+0	09:25:17.713	'22882783': previous successful authorization performed from 172.25.36.7
+0	09:25:44.717	'22882783': auto connecting to a better access point Datacenter 2 (ping is 297.75 ms)
+0	09:25:45.740	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 297.75 ms)
+0	09:25:51.879	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 297.75 ms)
+0	09:25:52.756	'22882783': previous successful authorization performed from 172.21.36.7
+1	12:24:07.532	'22882783': ping failed
+1	12:24:07.534	'22882783': datacenter connecting failed [6]
+1	12:24:08.239	'22882783': connect failed [No connection]
+0	12:27:30.129	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: n/a)
+0	12:27:35.115	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: n/a)
+0	12:27:35.860	'22882783': previous successful authorization performed from 172.25.36.7
+0	12:28:02.410	'22882783': ping to current access point Datacenter is 295.85 ms
+1	12:40:14.544	'22882783': ping failed
+0	12:40:16.761	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 303.07 ms)
+0	12:40:22.661	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 303.07 ms)
+0	12:40:23.454	'22882783': previous successful authorization performed from 172.21.36.7
+1	15:39:36.543	'22882783': ping failed
+1	15:39:38.201	'22882783': connect failed [No connection]
+0	15:40:05.407	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: n/a)
+0	15:40:11.403	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: n/a)
+0	15:40:12.264	'22882783': previous successful authorization performed from 172.25.36.7
+0	15:40:38.527	'22882783': auto connecting to a better access point Datacenter (ping is 294.91 ms)
+0	15:40:39.555	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 294.91 ms)
+0	15:40:57.569	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 294.91 ms)
+0	15:40:58.391	'22882783': previous successful authorization performed from 172.25.36.7
+1	17:16:23.553	'22882783': ping failed
+0	17:16:25.570	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 313.61 ms)
+0	17:16:31.183	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 313.61 ms)
+0	17:16:31.971	'22882783': previous successful authorization performed from 172.21.36.7
+0	17:16:58.303	'22882783': auto connecting to a better access point Datacenter (ping is 297.13 ms)
+0	17:16:59.215	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 297.13 ms)
+0	17:17:04.241	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 297.13 ms)
+0	17:17:04.990	'22882783': previous successful authorization performed from 172.25.36.7
+1	17:28:07.524	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:28:33.972	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:29:05.766	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:39:05.537	'22882783': ping failed
+0	17:39:07.625	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 300.10 ms)
+0	17:39:18.090	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 300.10 ms)
+0	17:39:18.860	'22882783': previous successful authorization performed from 172.21.36.7
+1	17:52:52.432	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:52:55.769	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:52:56.239	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:52:57.647	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:53:04.077	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:53:04.560	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:53:14.531	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:53:15.624	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:53:17.443	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	17:58:53.298	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:01:41.806	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:01:46.796	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:01:59.646	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:00.501	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:05.599	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:06.113	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:07.970	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:10.027	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:10.495	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:10.946	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:11.473	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:11.954	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+1	18:02:13.320	Notifications: invalid MetaQuotes ID setting (Tools->Options->Notifications)
+0	19:47:13.142	Automated trading enabled
+2	19:50:32.924	Custom indicator gap SPX500,H1: removed
+0	19:50:33.529	CMC Markets MT4 build 1350 stopped
+0	19:50:45.685	CMC Markets MT4 build 1350 started (CMC Markets Plc)
+0	19:50:45.689	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i7-10750H  @ 2.60GHz, Memory: 4940 / 16215 Mb, Disk: 290 / 475 Gb, GMT+10
+0	19:50:45.689	Data Folder: C:\Users\bthek\AppData\Roaming\MetaQuotes\Terminal\B313D8B5E3EEA7D6CF15F515B9125C20
+0	19:50:45.941	Sources recompilation started
+0	19:50:58.062	Sources recompilation finished (27 compiled in 12125 msec)
+2	19:50:59.604	Custom indicator created\gap SPX500,H1: loaded successfully
+0	19:51:01.441	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 300.10 ms)
+0	19:51:06.272	Automated trading disabled
+0	19:51:07.144	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 300.10 ms)
+0	19:51:07.948	'22882783': previous successful authorization performed from 172.25.36.7
+0	19:51:08.439	MQL5.community: activated for 'BensonThekkel', balance: 0.00
+0	19:51:14.987	MQL5.chats: activated for 'BensonThekkel'
+0	19:51:34.380	'22882783': auto connecting to a better access point Datacenter (ping is 314.01 ms)
+0	19:51:35.373	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 314.01 ms)
+0	19:51:41.449	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 314.01 ms)
+0	19:51:42.606	'22882783': previous successful authorization performed from 172.25.36.7
+1	23:43:02.564	'22882783': ping failed
+0	23:43:09.806	'22882783': login on CMCMarkets1-Demo through Datacenter 2 (ping: 307.08 ms)
+0	23:43:18.840	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter 2 (ping: 307.08 ms)
+0	23:43:19.609	'22882783': previous successful authorization performed from 172.21.36.7
+0	23:43:46.514	'22882783': auto connecting to a better access point Datacenter (ping is 294.85 ms)
+0	23:43:47.503	'22882783': login on CMCMarkets1-Demo through Datacenter (ping: 294.85 ms)
+0	23:43:52.758	'22882783': login datacenter on CMCMarkets1-Demo through Datacenter (ping: 294.85 ms)
+0	23:43:53.575	'22882783': previous successful authorization performed from 172.25.36.7
+0	23:44:35.770	MQL5.chats: activated for 'BensonThekkel'

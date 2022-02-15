@@ -1,0 +1,15 @@
+1	13:23:37.561	'23162932': ping failed
+1	13:23:38.714	MQL5.community: authorization failed
+0	13:23:44.503	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: 295.88 ms)
+0	13:23:49.074	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: 295.88 ms)
+0	13:23:49.884	'23162932': previous successful authorization performed from 172.21.36.7
+0	13:24:16.662	'23162932': ping to current access point DataCenter 2 is 297.23 ms
+1	16:59:40.566	'23162932': ping failed
+1	22:04:58.539	'23162932': connect failed [No connection]
+0	22:05:30.762	'23162932': login on CMCMarkets1-Live through DataCenter 2 (ping: n/a)
+0	22:05:33.862	'23162932': login datacenter on CMCMarkets1-Live through DataCenter 2 (ping: n/a)
+0	22:05:34.690	'23162932': previous successful authorization performed from 172.21.36.7
+0	22:06:01.596	'23162932': auto connecting to a better access point DataCenter (ping is 300.54 ms)
+0	22:06:02.535	'23162932': login on CMCMarkets1-Live through DataCenter (ping: 300.54 ms)
+0	22:06:05.982	'23162932': login datacenter on CMCMarkets1-Live through DataCenter (ping: 300.54 ms)
+0	22:06:06.774	'23162932': previous successful authorization performed from 172.25.36.7

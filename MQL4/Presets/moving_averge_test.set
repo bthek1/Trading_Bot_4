@@ -1,0 +1,5 @@
+Lots=0.3
+MaximumRisk=0.05
+DecreaseFactor=3.0
+MovingPeriod=12
+MovingShift=6
